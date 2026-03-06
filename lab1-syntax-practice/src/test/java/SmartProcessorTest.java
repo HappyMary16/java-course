@@ -11,7 +11,7 @@ class SmartProcessorTest {
     private SmartProcessor processor;
 
     @Test
-    void testFilterAndUppercase_oneWordInApperCaseReturned() {
+    void filterAndUppercase_oneWordInApperCaseReturned() {
         // GIVEN
         List<String> input = List.of("java", "is", "awesome", "fun");
         List<String> expected = List.of("AWESOME");
@@ -50,7 +50,7 @@ class SmartProcessorTest {
     }
 
     @Test
-    void testGroupByLength() {
+    void groupByLength_mapWithGroupedValuesCreated() {
         // GIVEN
         List<String> input = List.of("apple", "bat", "cat", "dog", "banana");
 
@@ -66,7 +66,7 @@ class SmartProcessorTest {
     }
 
     @Test
-    void testSumOfEvens_multipleValues() {
+    void sumOfEvens_multipleValues() {
         // GIVEN
         List<Integer> numbers = List.of(1, 2, 3, 4, 5, 6);
 
@@ -99,7 +99,7 @@ class SmartProcessorTest {
     }
 
     @Test
-    void testFindFirstMatching_matchingValuePresent() {
+    void findFirstMatching_matchingValuePresent() {
         // GIVEN
         List<Integer> numbers = List.of(1, 3, 5, 8, 10);
 
@@ -113,7 +113,7 @@ class SmartProcessorTest {
     }
 
     @Test
-    void testFindFirstMatching_noMatchingValue() {
+    void findFirstMatching_noMatchingValue() {
         // GIVEN
         List<Integer> numbers = List.of(1, 3, 5, 8, 10);
 
