@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>lecture1-singletone</artifactId>
+    <artifactId>lecture1-stack</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
