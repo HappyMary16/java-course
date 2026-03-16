@@ -12,6 +12,7 @@
         <module>lecture1-stack</module>
         <module>lab1-syntax-practice</module>
         <module>extras-singleton</module>
+        <module>lecture2-multithreading</module>
     </modules>
 
     <properties>
