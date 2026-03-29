@@ -14,6 +14,8 @@
         <module>extras-singleton</module>
         <module>lecture2-multithreading</module>
         <module>lecture2-annotations</module>
+        <module>lecture3-codegen</module>
+        <module>lecture3-javapoet</module>
     </modules>
 
     <properties>
