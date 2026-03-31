@@ -34,7 +34,7 @@
                             <compilerArgument>-proc:none</compilerArgument>
                             <includes>
                                 <include>com/mborodin/javacourse/codegen/BuilderProcessor.java</include>
-                                <!--include dependencies required for BuilderProcessor -->
+                                <!--include dependencies required for BuilderProcessor, in our case there is nothing to include  -->
                             </includes>
                         </configuration>
                     </execution>
