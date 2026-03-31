@@ -1,3 +1,3 @@
-Лекція 3 (частина 2)
+# Приклад з лекції №3 (AbstractProcessor + JavaPoet)
 
 Генерація нових класів використовуючи AbstractProcessor і JavaPoet.
