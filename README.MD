@@ -17,4 +17,5 @@
    - [AbstractProcessor і класичні інструменти Jаva](./lecture3-codegen/README.MD)
    - [AbstractProcessor і JavaPoet](./lecture3-javapoet/README.MD)
    - [AbstractProcessor і приватні API Java](./lecture3-codegen2/README.MD)
-5. Додаток 1: [Патерн Одинак (Singleton)](./extras-singleton)
+5. Лекція 4: [Приклади роботи з винятками](./lecture4-exceptions/README.MD)
+6. Додаток 1: [Патерн Одинак (Singleton)](./extras-singleton)
