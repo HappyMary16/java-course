@@ -18,6 +18,7 @@
         <module>lecture3-javapoet</module>
         <module>lecture3-codegen2</module>
         <module>lecture4-exceptions</module>
+        <module>lab6-exceptions</module>
     </modules>
 
     <properties>
