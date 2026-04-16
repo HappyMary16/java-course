@@ -19,6 +19,7 @@
         <module>lecture3-codegen2</module>
         <module>lecture4-exceptions</module>
         <module>lab6-exceptions</module>
+        <module>lecture5-unit-tests</module>
     </modules>
 
     <properties>
