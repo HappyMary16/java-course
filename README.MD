@@ -20,3 +20,26 @@
 5. Лекція 4: [Приклади роботи з винятками](./lecture4-exceptions/README.MD)
 6. Лабораторна 6: [Винятки](./lab6-exceptions/README.MD)
 7. Додаток 1: [Патерн Одинак (Singleton)](./extras-singleton)
+
+## Збирання проєкту використовуючи maven wrapper
+
+Maven wrapper знаходить директорію в яку встановлена java використовуючи 
+змінну середовища JAVA_HOME. Тому для його використання потрібно проставити
+змінну середовища JAVA_HOME. В JAVA_HOME має бути вказаний шлях до директорії
+куди встановлена java.
+
+Приклад виконання maven команд використовуючи wrapper:
+- Windows
+  - `mvnw.cmd package`
+  - `mvnw.cmd clean package`
+  - `mvnw.cmd spring-boot:run`
+- macOS, Linux
+  - `./mvnw package`
+  - `./mvnw clean package`
+  - `./mvnw spring-boot:run`
+
+Щоб зібрати тільки один модуль потрібно перейти в директорію модуля і 
+зібрати проєкт вказавши відносний або повний шлях до maven wrapper 
+(тобто до файлу `mvnw.cmd` або `mvnw` залежно від операційної системи).
+
+Більше про maven wrapper можна подивитись в https://www.baeldung.com/maven-wrapper.
