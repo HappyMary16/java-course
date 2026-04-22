@@ -20,6 +20,7 @@
         <module>lecture4-exceptions</module>
         <module>lab6-exceptions</module>
         <module>lecture5-unit-tests</module>
+        <module>lab8-integration-tests</module>
     </modules>
 
     <properties>
