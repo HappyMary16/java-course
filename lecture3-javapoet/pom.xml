@@ -49,6 +49,9 @@
                     <execution>
                         <id>compile-project</id>
                         <phase>compile</phase>
+                        <configuration>
+                            <compilerArgument>-proc:full</compilerArgument>
+                        </configuration>
                         <goals>
                             <goal>compile</goal>
                         </goals>

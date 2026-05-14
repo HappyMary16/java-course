@@ -30,3 +30,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+application.log
+db_cats
+/lecture7-jni/src/main/cpp/cmake-build-debug/
+/lecture7-panama/src/main/cpp/cmake-build-debug/
+/lab10-panama/src/main/cpp/cmake-build-debug/

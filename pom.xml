@@ -21,6 +21,9 @@
         <module>lab6-exceptions</module>
         <module>lecture5-unit-tests</module>
         <module>lab8-integration-tests</module>
+        <module>lecture7-jni</module>
+        <module>lecture7-panama</module>
+        <module>lab10-panama</module>
     </modules>
 
     <properties>
