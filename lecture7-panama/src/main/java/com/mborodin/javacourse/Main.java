@@ -6,7 +6,7 @@ import java.lang.invoke.MethodHandle;
 public class Main {
 
     static void main() throws Throwable {
-        // Library should be located from folder where you start an app
+        // Library (.dll, .dylib file) should be located in folder where you start an app
         System.loadLibrary("lecture7_panama");
 
         Linker linker = Linker.nativeLinker();
