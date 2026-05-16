@@ -10,19 +10,23 @@
 ## Лекції
 - Лекція 1: [Приклади, щоб подивитись як працює стек викликів](./lecture1-stack/README.MD)
 - Лекція 2:
-   - [Анотації](./lecture2-annotations/README.MD)
-   - [Багатопоточність](./lecture2-multithreading/README.MD)
+  - [Анотації](./lecture2-annotations/README.MD)
+  - [Багатопоточність](./lecture2-multithreading/README.MD)
 - Лекція 3: Генерація коду
-   - [AbstractProcessor і класичні інструменти Jаva](./lecture3-codegen/README.MD)
-   - [AbstractProcessor і JavaPoet](./lecture3-javapoet/README.MD)
-   - [AbstractProcessor і приватні API Java](./lecture3-codegen2/README.MD)
+  - [AbstractProcessor і класичні інструменти Jаva](./lecture3-codegen/README.MD)
+  - [AbstractProcessor і JavaPoet](./lecture3-javapoet/README.MD)
+  - [AbstractProcessor і приватні API Java](./lecture3-codegen2/README.MD)
 - Лекція 4: [Приклади роботи з винятками](./lecture4-exceptions/README.MD)
 - Лекція 5: [Юніт тести](./lecture5-unit-tests)
+- Лекція 7: Виконання нативного коду
+   - [JNI (Java native interface)](./lecture7-jni/README.MD)
+   - [Project Panama](./lecture7-panama)
 
 ## Лабораторні
 - Лабораторна 1: [Використання Java синтаксису](./lab1-syntax-practice/README.MD)
 - Лабораторна 6: [Винятки](./lab6-exceptions/README.MD)
 - Лабораторна 8: [Інтеграційні тести](./lab8-integration-tests/README.MD)
+- Лабораторна 10: [Виконання нативного коду за допомогою Project Panama](./lab10-panama)
 
 ## Додатки
 - [Патерн Одинак (Singleton)](./extras-singleton)
