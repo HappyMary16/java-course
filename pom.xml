@@ -24,6 +24,7 @@
         <module>lecture7-jni</module>
         <module>lecture7-panama</module>
         <module>lab10-panama</module>
+        <module>lecture8-backend</module>
     </modules>
 
     <properties>
