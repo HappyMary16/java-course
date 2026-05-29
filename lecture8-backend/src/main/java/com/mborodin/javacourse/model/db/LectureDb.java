@@ -27,5 +27,4 @@ public class LectureDb {
     private int number;
     @Version
     private int version;
-
 }
